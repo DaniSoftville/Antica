@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj": {}
+    "C:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj": {
+    "C:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj",
+        "projectUniqueName": "C:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "c:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj",
+        "projectPath": "C:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\sidor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\obj\\",
+        "outputPath": "C:\\Users\\sidor\\OneDrive\\Desktop\\Projects\\Antica\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
